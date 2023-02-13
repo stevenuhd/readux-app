@@ -1,0 +1,22 @@
+{
+  "users": [
+    { "id": 1, "first_name": "Mike","last_name": "Capaldi", "email": "mikemocapaldi@gmail.com", "password":"123456" },
+    { "id": 2, "first_name": "James","last_name": "Hetfield", "email": "papahet@gmail.com", "password":"654321" },
+    { "id": 3, "first_name": "Kirk","last_name": "Hammett", "email": "kirkguittar@gmail.com", "password":"111111" },
+    { "id": 4, "first_name": "Steven","last_name": "Perez", "email": "stevenpro@gmail.com", "password":"222222" },
+    { "id": 5, "first_name": "Naomi","last_name": "Cortes", "email": "naomipro@gmail.com", "password":"333333" }
+    
+  ],
+  "products": [
+    { "id": 1, "name": "Star wars", "price": 50000,"category": "Guerra" },
+    { "id": 2, "name": "Mad Max", "price": 33000,"category": "post-apocalipsis" },
+    { "id": 3, "name": "Harry potter", "price": 59000,"category": "Magia" },
+    { "id": 4, "name": "Call of duty", "price": 58000,"category": "Guerra" },
+    { "id": 5, "name": "Halo", "price": 25000,"category": "Post-apocalipsis" },
+    { "id": 6, "name": "Lord of the ring", "price": 45000,"category": "Guerra" },
+    { "id": 7, "name": "Tony hawk", "price": 25000,"category": "Deportes" },
+    { "id": 8, "name": "Motocross", "price": 31000,"category": "Deportes" },
+    { "id": 9, "name": "Naruto", "price": 12000,"category": "Anime" },
+    { "id": 10, "name": "Residen evil", "price": 41000,"category": "Post-apocalipsis" }
+  ]
+}
